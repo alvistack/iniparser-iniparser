@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+libiniparser-dev
+libiniparser4
+tmp

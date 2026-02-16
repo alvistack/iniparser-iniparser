@@ -1,0 +1,4 @@
+iniparser source: file-without-copyright-information
+iniparser source: no-debian-changes
+iniparser source: not-binnmuable-any-depends-any
+iniparser source: weak-library-dev-dependency
